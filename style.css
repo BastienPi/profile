@@ -4,13 +4,13 @@ h1 {
 }
 
 body {
-    text-align: center;
-    background-image: url("images/cotillons.jpg");
-    font-family: 'Varela', sans-serif;
-    font-weight: 400;
-    color: #B22222;
-    font-size: 15px;
-    line-height: 1.8em;
+  text-align: center;
+  background-image: url("images/cotillons.jpg");
+  font-family: 'Varela', sans-serif;
+  font-weight: 400;
+  color: #B22222;
+  font-size: 15px;
+  line-height: 1.8em;
 }
 
 #profile {
@@ -23,6 +23,7 @@ body {
 }
 
 .container {
+  background-color: yellow;
   width: 400px;
   margin: 5 auto;
 }
