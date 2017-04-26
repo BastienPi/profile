@@ -1,0 +1,33 @@
+/* Here goes your CSS */
+h1 {
+  color : red;
+}
+
+body {
+    text-align: center;
+    background-image: url("images/cotillons.jpg");
+    font-family: 'Varela', sans-serif;
+    font-weight: 400;
+    color: #B22222;
+    font-size: 15px;
+    line-height: 1.8em;
+}
+
+#profile {
+  width: 200px;
+  border-radius: 60%;
+}
+
+.things{
+  width: 150px;
+}
+
+.container {
+  width: 400px;
+  margin: 5 auto;
+}
+
+p {
+  font-size: 20px;
+}
+
