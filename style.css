@@ -23,8 +23,12 @@ body {
 }
 
 .container {
-  width: 400px;
-  margin: 5 auto;
+  margin: auto;
+  display: flex;
+}
+
+.center {
+  margin: auto;
 }
 
 #amour {
@@ -33,9 +37,25 @@ body {
   margin: 10 auto;
   padding: 5px;
   box-shadow: 10px 10px 30px orange;
+
 }
 
 p {
   font-size: 20px;
 }
+
+#dancing_cat1 {
+  width: 100px;
+  margin-top: 500px;
+  margin-left: 70px;
+
+}
+
+#dancing_cat2 {
+  width: 100px;
+  margin-top: 500px;
+  margin-right: 70px;
+
+}
+
 
